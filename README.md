@@ -28,14 +28,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-
----
-
 ## 📫 Connect with Me
-- LinkedIn: (add link)
-- Email: (add email)
+- Email: omjavanjal29@gmail.com
 
 ---
 
